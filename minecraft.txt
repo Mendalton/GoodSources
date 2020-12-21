@@ -1,1 +1,3 @@
 For stuff Minecraft related, take a look at the mniecraft branch.
+
+(Minecraft tips and research for datapacks & resource packs development)

@@ -1,0 +1,26 @@
+#For every datapack and resource pack, they always requires this code inside.
+
+Copy and paste this to your worlds.
+
+*For datapacks
+
+{
+    "pack": {
+        "pack_format": 3,
+        "description": "Edit this to whatever you like"
+    }
+}
+
+*For resourcepacks
+
+{
+    "pack": {
+        "pack_format": 6,
+        "description": "Edit this to whatever you like"
+    }
+}
+
+
+==================================
+Research attributed by: Mendalton
+==================================

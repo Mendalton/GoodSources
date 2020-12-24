@@ -1,2 +1,2 @@
 # GoodSources
-Gives sources and formats for anything you want from Minecraft commands to basic programing functions.
+Gives sources and formats for anything you want from Minecraft commands to programing functions.
